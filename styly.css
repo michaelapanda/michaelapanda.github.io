@@ -2,13 +2,13 @@
 /*Napriklad:*/
 /*h1 { color: red; }*/
 nav li {display: inline-block;}
-img {width:200px; border-radius:50px;}
+img {width:200px; border-radius:100px; margin-left:50px;}
 h1 {font-size: 30px; font-family: helvetica;color:black;}
-h2 {font size: 25px; font-family: helvetica; color:#990099;}
+h2 {font size: 25px; font-family: helvetica; color:#990099; text-align:center;}
 p {font-size:17px;font-family: helvetica}
 nav {font-size: 30px; font-family: helvetica; background-color: #5C246E; padding: 1px; text-align: center}
 nav a {color: white}
-blockquote {font-size:17px; font-family:helvetica; color:black; padding: 10px; margin-left:0; border-radius:20px; font-style:italic;}
+blockquote {font-size:17px; font-family:helvetica; color:black; padding: 10px; margin-left:50px; border-radius:20px; font-style:italic; text-align:center}
 footer {font-size:14px;font-family:helvetica;position:fixed;bottom:0;}
 article {text-align: center;}
 aside {float:left; width:30%;}
