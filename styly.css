@@ -1,0 +1,17 @@
+/*Toto je komentar, slouzi pouze pro poznamky. Svoje styly piste pod nej*/
+/*Napriklad:*/
+/*h1 { color: red; }*/
+nav li {display: inline-block;}
+img {width:200px; border-radius:50px;}
+h1 {font-size: 30px; font-family: helvetica;color:black;}
+h2 {font size: 25px; font-family: helvetica; color:#990099;}
+p {font-size:17px;font-family: helvetica}
+nav {font-size: 30px; font-family: helvetica; background-color: #5C246E; padding: 1px; text-align: center}
+nav a {color: white}
+blockquote {font-size:17px; font-family:helvetica; color:black; padding: 10px; margin-left:0; border-radius:20px; font-style:italic;}
+footer {font-size:14px;font-family:helvetica;position:fixed;bottom:0;}
+article {text-align: center;}
+aside {float:left; width:30%;}
+article{float:right;width:70%;}
+section {margin:auto; padding:10px; width:70%;}
+.text {color: #990099;font-weight:bold; font-size:20px;}
